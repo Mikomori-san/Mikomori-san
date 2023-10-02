@@ -49,6 +49,7 @@ To name a few:
 
 ## Interests
 
+- Programming
 - Latest Technologies
 - Gaming
 - Anime & Manga
