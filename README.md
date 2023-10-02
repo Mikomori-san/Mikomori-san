@@ -13,7 +13,7 @@ I've been studying programming for about 6 years now and therefore gained a bit 
   - Engines
     - Unity
     - Unreal
-    - Own basic engines
+    - Own basic engines (made with SFML C# & C++)
 - Web Development
   - Frontend
     - HTML
