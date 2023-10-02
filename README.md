@@ -23,7 +23,7 @@ I've been studying programming for about 6 years now and therefore gained a bit 
   - Backend
     - Java
     - C#
-I'm also profficient in searching for solutions to problems online :)
+- I'm also profficient in searching for solutions to problems online :)
 
 ### Basic
 - Python
