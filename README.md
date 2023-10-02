@@ -41,9 +41,9 @@ To name a few:
   - Web-based Infotainment System for a bakery/cafe
 - Higher Technical School:
   - Web-based IOT Dashboard with Caching Service & Offline Functionality
-- 1. Semester Bachelor's Degree:
+- First Semester Bachelor's Degree:
   - 3D Top-Down Hack&Slay Game Prototype in Unity (incl. Models created with Blender)
-- 2. Semester Bachelor's Degree:
+- Second Semester Bachelor's Degree:
   - Game Engine written with SFML in C#
   - 2D tactics/roguelite Game in my own game engine
 
