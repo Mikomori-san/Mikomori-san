@@ -6,7 +6,7 @@ I've been studying programming for about 6 years now and therefore gained a bit 
 ## Areas of Expertise
 
 ### Deepened
-- Game/Desktop Development
+- Game Development
   - Languages
     - C++
     - C#
@@ -23,7 +23,7 @@ I've been studying programming for about 6 years now and therefore gained a bit 
   - Backend
     - Java
     - C#
-- I'm also profficient in searching for solutions to problems online :)
+    - SQL
 
 ### Basic
 - Python
@@ -42,7 +42,7 @@ To name a few:
 - Higher Technical School:
   - Web-based IOT Dashboard with Caching Service & Offline Functionality
 - First Semester Bachelor's Degree:
-  - 3D Top-Down Hack&Slay Game Prototype in Unity (incl. Models created with Blender)
+  - 3D Top-Down Hack&Slay Game Prototype in Unity (incl. Models created in Blender)
 - Second Semester Bachelor's Degree:
   - Game Engine written with SFML in C#
   - 2D tactics/roguelite Game in my own game engine
