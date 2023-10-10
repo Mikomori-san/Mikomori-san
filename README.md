@@ -35,7 +35,7 @@ I've been studying programming for about 6 years now and therefore gained a bit 
 
 ## Projects
 
-I've done / have been part of some projects over the time, spanning from web-based solutions to singleplayer games.
+I've done / been part of some projects over the time, spanning from web-based solutions to singleplayer games.
 To name a few:
 - "Matura" Thesis:
   - Web-based Infotainment System for a bakery/cafe
