@@ -44,7 +44,7 @@ To name a few:
 - First Semester Bachelor's Degree:
   - 3D Top-Down Hack&Slay Game Prototype in Unity (incl. Models created in Blender)
 - Second Semester Bachelor's Degree:
-  - Game Engine written with SFML in C#
+  - Simple Game Engine written with SFML in C#
   - 2D tactics/roguelite Game in my own game engine
 
 ## Interests
