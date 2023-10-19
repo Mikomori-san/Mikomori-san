@@ -45,7 +45,7 @@ To name a few:
   - 3D Top-Down Hack&Slay Game Prototype in Unity (incl. Models created in Blender)
 - Second Semester Bachelor's Degree:
   - Simple Game Engine written with SFML in C#
-  - 2D tactics/roguelite Game in my own game engine
+  - NoTimeToExplain: A simple 2D tactics/roguelite Game in my own game engine
 
 ## Interests
 
