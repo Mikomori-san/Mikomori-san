@@ -14,6 +14,8 @@ I've been studying programming for about 6 years now and therefore gained a bit 
     - Unity
     - Unreal
     - Own basic engines (made with SFML C# & C++)
+  - Misc.
+    - Blender
 - Web Development
   - Frontend
     - HTML
