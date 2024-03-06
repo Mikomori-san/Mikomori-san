@@ -1,6 +1,6 @@
 ## Hey there!
 
-I'm Kev aka Miko and currently enrolled in the 3. Semester of my Bachelor's Degree in Informatics & Game Development.
+I'm Kev aka Miko and currently enrolled in the 4. Semester of my Bachelor's Degree in Informatics & Game Development.
 I've been studying programming for about 6 years now and therefore gained a bit of expertise in different aspects of coding like Web-Dev from my years in the higher technical school for software engineering and Game-Dev from my current studies in University! I hope that some of my projects are of interest to you :)
 
 ## Areas of Expertise
