@@ -29,7 +29,6 @@ I've been studying programming for about 6 years now and therefore gained a bit 
 
 ### Basic
 - Python
-- Blender
 - Shaders
 - TypeScript
 - Swift
