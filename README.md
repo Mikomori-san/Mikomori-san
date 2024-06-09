@@ -48,10 +48,15 @@ To name a few:
 - Second Semester Bachelor's Degree:
   - Simple Game Engine written with SFML in C#
   - NoTimeToExplain: A simple 2D tactics/roguelite Game in my own game engine
-- Third Semester Bachelor's Degree (WIP):
+- Third Semester Bachelor's Degree:
   - Game Engine written with SFML in C++
   - 2D Game developed in our own game engine
     - Team size of 3
+- Fourth Semester Bachelor's Degree:
+  - Unity
+  - A bit of Blender
+  - 2 Player local Co-op
+  - Team size of 3
 ## Interests
 
 - Programming
