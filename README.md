@@ -55,7 +55,7 @@ To name a few:
 - Fourth Semester Bachelor's Degree:
   - Unity
   - A bit of Blender
-  - 2 Player local Co-op
+  - 3D 2 Player local Co-op on Splitscreen
   - Team size of 3
 ## Interests
 
