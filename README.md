@@ -57,6 +57,11 @@ To name a few:
   - A bit of Blender
   - 3D 2 Player local Co-op on Splitscreen
   - Team size of 3
+- Bachelor Game Project (WIP):
+  - Unreal
+  - Team size of 7
+    - 3 Artists, 3 Programmers, 1 Sound Designer
+  - Singleplayer Horror  
 ## Interests
 
 - Programming
