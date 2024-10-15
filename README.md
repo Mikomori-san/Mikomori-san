@@ -1,7 +1,7 @@
 ## Hey there!
 
-I'm Kev aka Miko and currently enrolled in the 4th Semester of my Bachelor's Degree in Informatics & Game Development.
-I've been studying programming for about 7 years now and therefore gained a bit of expertise in different aspects of coding like Web-Dev from my years in the higher technical school for software engineering and Game-Dev from my current studies in University! I hope that some of my projects are of interest to you :)
+I'm Kev aka Miko and currently enrolled in the 5th Semester of my Bachelor's Degree in Informatics & Game Development.
+I've been studying programming for about 8 years now and therefore gained a bit of expertise in different aspects of coding like Web-Dev from my years in the higher technical school for software engineering and Game-Dev from my current studies in University! I hope that some of my projects are of interest to you :)
 
 ## Areas of Expertise
 
@@ -55,19 +55,19 @@ To name a few:
 - Fourth Semester Bachelor's Degree:
   - Unity
   - A bit of Blender
-  - 3D 2 Player local Co-op on Splitscreen
+  - 3D 2-Player local Co-op on Splitscreen
   - Team size of 3
 - Bachelor Game Project (WIP):
   - Unreal
-  - Team size of 7
-    - 3 Artists, 3 Programmers, 1 Sound Designer
-  - Singleplayer Horror  
+  - Team size of 8
+    - 3 Artists, 3 Programmers, 2 Sound Designer
+  - Singleplayer Horror 
 ## Interests
 
 - Programming
 - Latest Technologies
 - Gaming
 - Anime & Manga
-- D&D
+- D&D (Player & DM)
 - Tabletennis
 - Archery
