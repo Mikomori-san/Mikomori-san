@@ -61,7 +61,7 @@ To name a few:
   - Unreal
   - Team size of 8
     - 3 Artists, 3 Programmers, 2 Sound Designer
-  - Singleplayer Horror 
+  - Singleplayer Horror
 ## Interests
 
 - Programming
