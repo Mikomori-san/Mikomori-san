@@ -3,7 +3,7 @@
 I'm Kev aka Miko and currently enrolled in the 5th Semester of my Bachelor's Degree in Informatics & Game Development.
 I've been doing programming for about 8 years now and therefore gained a bit of expertise in different aspects of coding like Web-Dev from my years in the higher technical school for software engineering and Game-Dev from my current studies in University! I hope that some of my projects are of interest to you :)
 
-## Areas of Expertise
+## Areas of Expertise - Programming & 3D / Visual Effects
 
 ### Deepened
 - Game Development
@@ -14,7 +14,7 @@ I've been doing programming for about 8 years now and therefore gained a bit of 
     - Unity
     - Unreal
     - Own basic engines (made with SFML C# & C++)
-  - Misc.
+  - 3D & Visual Effects
     - Blender
 - Web Development
   - Frontend
@@ -34,6 +34,7 @@ I've been doing programming for about 8 years now and therefore gained a bit of 
 - Swift
 - C
 - Assembly
+- Unreal Niagara
 
 ## Projects
 
@@ -54,17 +55,18 @@ To name a few:
     - Team size of 3
 - Fourth Semester Bachelor's Degree:
   - Unity
-  - A bit of Blender
+  - Blender
   - 3D 2-Player local Co-op on Splitscreen
   - Team size of 3
 - Bachelor Game Project (WIP):
   - Unreal
   - Team size of 8
     - 3 Artists, 3 Programmers, 2 Sound Designer
-  - Singleplayer Horror
+  - Singleplayer Psychological Horror
 ## Interests
 
 - Programming
+- 3D Art & Visual Effects
 - Latest Technologies
 - Gaming
 - Anime & Manga
