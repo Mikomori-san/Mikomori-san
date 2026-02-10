@@ -58,11 +58,23 @@ To name a few:
   - Blender
   - 3D 2-Player local Co-op on Splitscreen
   - Team size of 3
-- Bachelor Game Project (WIP):
+- Bachelor Game Project:
   - Unreal
   - Team size of 8
     - 3 Artists, 3 Programmers, 2 Sound Designer
   - Singleplayer Psychological Horror
+- Applied Game
+  - Unity
+  - Team Size of 2
+  - Vision from Sustainable Software Dev Goals
+- Game AI Prototype
+  - Unreal
+  - HTN Planning
+  - Companion AI
+- Master Game Project 1:
+  - Team Size of 2
+  - Unreal
+  - 2.5D
 ## Interests
 
 - Programming
